@@ -459,6 +459,8 @@ on the DNS zone to be used for authentication.
     rfc2136_secret: "secret-key"
     rfc2136_algorithm: HMAC-SHA512
   ```
+	
+	NOTE: HMAC-SHA512 must be in uppper case.
   
 </details>
 
